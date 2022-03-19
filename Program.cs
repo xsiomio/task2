@@ -1,0 +1,10 @@
+﻿bool isMen;
+byte age;
+short waterTemperature;
+int money;
+long score;
+float weight;
+double height;
+decimal pi;
+char a;
+string name;
